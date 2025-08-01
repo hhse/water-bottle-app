@@ -117,8 +117,8 @@ python build_exe.py
 
 **木木iOS分享**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- 项目主页: [水瓶应用](https://github.com/your-username/water-bottle-app)
+- GitHub: [@your-username](https://github.com/hhse/water-bottle-app)
+- 项目主页: [水瓶应用](https://github.com/hhse/water-bottle-app)
 
 ## 🙏 致谢
 
